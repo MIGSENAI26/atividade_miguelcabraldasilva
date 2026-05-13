@@ -1,0 +1,13 @@
+h2{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 25px;
+}
+
+.card-container{
+    display: inline-flex;
+    margin: 20px 0;
+}

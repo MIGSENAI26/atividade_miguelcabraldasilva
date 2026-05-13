@@ -1,0 +1,16 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.imagem{
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.descricao{
+    width: 350px;
+    margin: 0 10px;
+}

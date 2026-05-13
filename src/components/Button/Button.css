@@ -1,0 +1,21 @@
+.botao{
+    padding: 8px;
+    margin: 15px;
+    text-align: center;
+    font-size: 20px;
+    background-color: greenyellow;
+    color: black;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.3s;
+}
+
+.botao:hover{
+    background-color: white;
+    transition-duration: 0.3s;
+}
+
+.botao-desabilitado{
+    opacity: .5;
+}
