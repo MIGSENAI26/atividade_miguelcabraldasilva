@@ -15,7 +15,7 @@ function Main(){
                 <Card 
                     titulo="Desenvolvimento Web" 
                     descricao="O desenvolvimento web é feito a partir de linguagens de marcação, estilo e programação, como HTML, CSS e JavaScript. Além disso, existem frameworks que ajudam no processo de desenvolvimento, como o React!"
-                    imagem="Imagem-Dev.jpeg"
+                    imagem="Imagem-Linguagens.png"
                     imagemAlt="Icones das Linguagens"
                 />
                 <Card 
